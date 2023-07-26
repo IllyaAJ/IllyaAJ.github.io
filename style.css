@@ -98,7 +98,6 @@ footer h4{
 .container{
 display: block;
 }
-ul .btn{
-    padding: 0
-    ;
+body section{
+    padding: 0;
 }
