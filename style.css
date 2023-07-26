@@ -1,6 +1,7 @@
 body{
 background-color: #B69196;
 text-align: center;
+margin: 0;
 } 
 a {text-decoration: none;}
 h3{
@@ -14,9 +15,6 @@ nav{
     text-align: center;
 }
 
-nav a img.logos{
-    width: 100px;
-    }FIJARSEESTO*/
 p{
     line-height: 20px;
     letter-spacing: 1px;
@@ -32,6 +30,7 @@ body p {
     text-align: justify;
     text-align: center;
     display: inline-block;
+    max-width: 500px;
 }
 footer h4{
     text-align: left;
@@ -40,7 +39,13 @@ footer h4{
 }
 .btn{
     list-style: none;
+    text-align: center;
 } 
+.btn ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 .btnparametros{
     color: black;
     background-color: white;
@@ -86,4 +91,7 @@ footer h4{
     text-align: center;
     width: 200px;
     padding: 20px 0px 0px 0px
+}
+.container{
+display: block;
 }
