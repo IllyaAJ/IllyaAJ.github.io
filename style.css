@@ -2,6 +2,9 @@ body{
 background-color: #B69196;
 text-align: center;
 margin: 0;
+@media (max-width: 767px) {
+    
+}
 } 
 a {text-decoration: none;}
 h3{
