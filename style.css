@@ -98,3 +98,7 @@ footer h4{
 .container{
 display: block;
 }
+ul .btn{
+    padding: 0
+    ;
+}
